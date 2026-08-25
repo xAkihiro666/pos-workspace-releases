@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.0.1",
+    "versionCode":  3,
+    "versionName":  "1.0.2",
     "minimumSupportedVersionCode":  2,
-    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.1/pos-workspace-1.0.1.apk",
-    "sha256":  "8EDE0800BCE714D41456E0D0C7AC455F38DB59B877155010818330BDF261950E",
-    "releaseNotes":  "Production cashier release 1.0.1."
+    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.2/pos-workspace-1.0.2.apk",
+    "sha256":  "4862D58DF1CF17B1221CB0FDAFCFDFB5BBB6665B39135FFAE4E49AB28D53E716",
+    "releaseNotes":  "The navigation panel now follows your finger while swiping from the left edge."
 }
