@@ -1,0 +1,8 @@
+{
+    "versionCode":  1,
+    "versionName":  "1.0.0",
+    "minimumSupportedVersionCode":  1,
+    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.0/pos-workspace-1.0.0.apk",
+    "sha256":  "24A12B6DA3D7AC64692A58ACF68EEBB3B5109789EA9921DF11E9996689ED7832",
+    "releaseNotes":  "Production cashier release 1.0.0."
+}
