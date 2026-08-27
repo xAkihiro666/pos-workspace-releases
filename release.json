@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.0.3",
+    "versionCode":  5,
+    "versionName":  "1.0.4",
     "minimumSupportedVersionCode":  2,
-    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.3/pos-workspace-1.0.3.apk",
-    "sha256":  "F46F8230592618F737080C582A8A7117335352C0B8565D0502070061EE471CF5",
-    "releaseNotes":  "Menu items now increment when tapped. The mobile top bar is removed, and swiping left from the right edge opens a compact clear-order confirmation."
+    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.4/pos-workspace-1.0.4.apk",
+    "sha256":  "9C5376E749FDA4F14DD6FD7DAA70E7FB01EB2AC9169BA020DC5BD172E848E213",
+    "releaseNotes":  "Settings now use lighter native dropdown controls with automatic saving, hidden scrollbars, reduced Android overscroll, and a proper startup loading indicator."
 }
