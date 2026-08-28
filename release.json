@@ -3,6 +3,6 @@
     "versionName":  "1.0.5",
     "minimumSupportedVersionCode":  1,
     "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.5/pos-workspace-1.0.5.apk",
-    "sha256":  "B26E44F20BA49F76618142E884F59014CBCF21C858DB55697F28D07FF71F1B5D",
-    "releaseNotes":  "Customer checkout handoff and cashier navigation refinements."
+    "sha256":  "D5B8C41900DBBD4C9A7C354596EEE4D866D1C22A7566621677144BB4809A7FCF",
+    "releaseNotes":  "Customer no-channel empty-state refinement."
 }
