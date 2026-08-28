@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.0.4",
-    "minimumSupportedVersionCode":  2,
-    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.4/pos-workspace-1.0.4.apk",
-    "sha256":  "9C5376E749FDA4F14DD6FD7DAA70E7FB01EB2AC9169BA020DC5BD172E848E213",
-    "releaseNotes":  "Settings now use lighter native dropdown controls with automatic saving, hidden scrollbars, reduced Android overscroll, and a proper startup loading indicator."
+    "versionCode":  6,
+    "versionName":  "1.0.5",
+    "minimumSupportedVersionCode":  1,
+    "apkUrl":  "https://github.com/xAkihiro666/pos-workspace-releases/releases/download/v1.0.5/pos-workspace-1.0.5.apk",
+    "sha256":  "B26E44F20BA49F76618142E884F59014CBCF21C858DB55697F28D07FF71F1B5D",
+    "releaseNotes":  "Customer checkout handoff and cashier navigation refinements."
 }
